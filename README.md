@@ -82,7 +82,7 @@ Load animated GIFs and apply dithering uniformly across all frames. Frame timing
 - **Preset system** — Save and load your full configuration (algorithm, color mode, parameters, palette, and all adjustments) as named presets
 
 <!-- IMAGE 3: Show the indexed color mode with a custom palette loaded — the color swatch grid visible in the sidebar alongside the dithered result. -->
-![Palettes](assets/palettes.png)
+![Palettes](assets/palettes.gif)
 
 ### Export Options
 
